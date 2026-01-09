@@ -6,7 +6,7 @@ View it live: [https://t-syam-kumar.github.io/Analog-Clock/](https://t-syam-kuma
 
 ---
 
-## Features
+## Features  
 
 - Smoothly rotating **hour, minute, and second hands**
 - **12-hour numbered dial** for easy readability
