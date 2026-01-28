@@ -10,7 +10,7 @@ View it live: [https://t-syam-kumar.github.io/Analog-Clock/](https://t-syam-kuma
 
 - Smoothly rotating **hour, minute, and second hands**
 - **12-hour numbered dial** for easy readability
-- **Center dot** aligned with hands for a realistic appearance
+- **Center dot** aligned with hands for a realistic appearance 
 - Minimalistic and modern design
 - Fully responsive on desktop and mobile devices
 - Lightweight and fast, built with vanilla HTML, CSS, and JavaScript
