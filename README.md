@@ -2,7 +2,7 @@
 
 A **simple and visually appealing analog clock** built using **HTML, CSS, and JavaScript**. This project demonstrates smooth rotation of hour, minute, and second hands with a numbered clock dial and a center dot for realistic styling.
 
-View it live: [https://t-syam-kumar.github.io/Analog-Clock/](https://t-syam-kumar.github.io/Analog-Clock/)
+View it live: [Analog Clock](https://t-syam-kumar.github.io/Analog-Clock/)
 
 ---
 
